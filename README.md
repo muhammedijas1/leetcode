@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2469-convert-the-temperature](https://github.com/muhammedijas1/leetcode/tree/master/2469-convert-the-temperature) |
+| [2651-calculate-delayed-arrival-time](https://github.com/muhammedijas1/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 ## String
 |  |
 | ------- |
